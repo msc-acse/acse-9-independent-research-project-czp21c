@@ -228,7 +228,7 @@ def save_coord(fig, fig_c, minib_size):
 def find_interested_area(fig, figc):
     '''
         Return two coordinates.
-        These coordinates correspond to the area in the seismic section rich of features.
+        Find the positions where the seismic section begins and stops introducing pixels in different classes.
 
         fig - a numpy array, the original seismic sections.
         fig_c - a numpy array, the class label map of the original seismic sections.
