@@ -9,7 +9,8 @@
 **Company**: Perenco Oil & Gas  
 **Address**: 8 Hanover Square, Mayfair, London W1S 1HQ  
 **Company Supervisors**: Jeremy Fortun, Kurt Rattansingh
-
+  
+## Files
 This repository has 5 files:  
 **Project Report**: The report of this project.  
 **Seismic Image Classification with Convolutional Neural Networks (CNNs)**: A Jupyter Notebook, contains all the majority of code and instructions.  
