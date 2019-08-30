@@ -1,7 +1,7 @@
 # Seismic Image Classification with Convolutional Neural Networks (CNNs)  
 **Imperial College London**  
 **Msc in Applied Computational Science and Engineering**  
-**Module 9**: Independent Research Project  
+**Module 9: Independent Research Project**  
 **Author**: Zongpeng Chen  
 **Email**: zongpeng.chen18@imperial.ac.uk  
 **Date**: August 30, 2019  
@@ -21,7 +21,7 @@ To be noticed, the **data** is not included in the repository because all rights
   
   
 ## Requirements   
-  **Required Softwares**: Python, Jupyter Notebook, Cuda 10.0 Toolkit from Nvidia, Anaconda(Recommended)  
+  **Softwares**: Python, Jupyter Notebook, Cuda 10.0 Toolkit from Nvidia, Anaconda(Recommended)  
   **Open Source Libraries**: Numpy, PyTorch, Livelossplot, Obspy, Torchvision, Scikit-learn, Matplotlib, Os, Pycm, Scipy, Resource, Torchsummary, Math  
   
 ## Inputs and Outputs
