@@ -13,7 +13,7 @@
 ## Files
 This repository has 5 files:  
 **Project Report**: The report of this project.  
-**Seismic Image Classification with Convolutional Neural Networks (CNNs)**: A Jupyter Notebook, contains all the majority of code and instructions.  
+**Seismic Image Classification with Convolutional Neural Networks (CNNs)**: A Jupyter Notebook, contains the majority of codes and instructions.  
 **helper**: A python file, contains the helper functions for this project.  
 **Models**: Models trained in this project. Only 5 of 7 models are there because the other two models are to big to be uploaded.  
 **Coordinates + Labels**: The training coordinates and labels data used in this project. Can be used directly to save training time.  
