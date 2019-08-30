@@ -15,7 +15,7 @@ This repository has 5 files:
 **Seismic Image Classification with Convolutional Neural Networks (CNNs)**: A Jupyter Notebook, contains all the majority of code and instructions.  
 **helper**: A python file, contains the helper functions for this project.  
 **Models**: Models trained in this project. Only 5 of 7 models are there because the other two models are to big to be uploaded.  
-**Coordinates + Labels}**: The training coordinates and labels data used in this project. Can be used directly to save training time.  
+**Coordinates + Labels**: The training coordinates and labels data used in this project. Can be used directly to save training time.  
   
 To be noticed, the **data** is not included in the repository because all rights of the data are belonged to Perenco Oil & Gas. Please contact me personally to get access to the data through hard drive.
   
