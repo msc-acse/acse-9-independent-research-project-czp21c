@@ -27,7 +27,7 @@ To be noticed, the **data** is not included in the repository because all rights
   
 ## Inputs and Outputs
   **Inputs:** The SEGY data of seismic sections.  
-  **Outputs:** Different types of Models.
+  **Outputs:** Different types of model.
   
 ## General Instructions  
   To run this project successfully, please follow the instructions in the Jupyter notebook and the report.
