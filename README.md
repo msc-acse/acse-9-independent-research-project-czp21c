@@ -1,4 +1,4 @@
-# Seismic Image Classification with Convolutional Neural Networks (CNNs)  
+# Supervised Seismic Image Classification with Convolutional Neural Networks (CNNs)  
 **Imperial College London**  
 **Msc in Applied Computational Science and Engineering**  
 **Module 9: Independent Research Project**  
