@@ -18,7 +18,7 @@ This repository has 5 files:
 **Models**: Models trained in this project. Only 5 of 7 models are there because the other two models are to big to be uploaded.  
 **Coordinates + Labels**: The training coordinates and labels data used in this project. Can be used directly to save training time.  
   
-To be noticed, the **data** is not included in the repository because all rights of the data are belonged to Perenco Oil & Gas. Please contact me personally to get access to the data through hard drive.
+To be noticed, the **Data** used in this project is not included in the repository because all rights of the SEGY data are belonged to Perenco Oil & Gas. Please contact me personally to get access to the data through hard drive.
   
   
 ## Requirements   
